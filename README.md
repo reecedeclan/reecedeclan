@@ -1,5 +1,5 @@
 # ⭐ About Me:
-🎶 Passionate about music  <br>📍 Johannesburg, South Africa  <br>🎓 BCompSci (App Dev) with distinction  <br>💼 Software Developer at Supernova Business Solutions  <br>🤝 Positive, adaptable and always eager to learn & solve problems  
+🎶 Passionate about music  <br>📍 Johannesburg, South Africa  <br>🎓 Bachelor of Computer and Information Science in Application Development with distinction <br>🎓 Bachelor of Computer Science (Honours) with distinction <br>💼 Software Developer at Supernova Business Solutions  <br>🤝 Positive, adaptable and always eager to learn & solve problems  
 
 
 ## 🌐 Socials:
